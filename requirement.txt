@@ -1,0 +1,11 @@
+qiskit
+matplotlib
+qiskit-ibm-runtime
+qiskit-aer
+pandas
+pylatexenc
+qiskit-machine-learning
+seaborn
+twinlab
+gpytorch
+scikit-learn
